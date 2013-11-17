@@ -7,7 +7,7 @@
 4. Find common themes about how ITP Alumni view the world
 5. Understand the different lives led by our alumni. (The contexts that will shape what we create.) 
 
-## Introduce Yourself - feel free to modify as you see fit, but make sure to practice. ##
+## Introduce Yourself ##
 Hello, my name is...(your name).  I'm talking to alumni to try and understand how we can better connect 3,000 alumni who are geographically, socially and technically diverse.  To do that, I wanted to talk to you. The information you give us is going to help shape how we bring ITP alumni together. The information you share with us will be anonymous - I won't report it back with your real name.  There's also no right or wrong answer to any of the questions I'll ask you. This conversation should be able how you feel so we can do the best job at connecting alumni from every year at ITP.
 
 Before I begin, do you have any questions for me?
